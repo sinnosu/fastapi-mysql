@@ -1,13 +1,13 @@
 
 
-# framework
-Fastapi
+# Use Framework
+**Fastapi**
 
 
 # Getting start
 ## Setting some files
 ### Pip library install
- - instaall pip library using by pipenv
+ - instaall pip library with pipenv
  ```
  $ pipenv --python 3.10
  $ pipenv install --three fastapi fastapi-sqlalchemy sqlalchemy_utils mysqlclient pytest inject pydantic alembic uvicorn sqlalchemy
